@@ -1,0 +1,24 @@
+{
+  "name": "iso",
+  "version": "1.0.0",
+  "description": "Isomorphic web framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wendyyuchensun/iso.git"
+  },
+  "keywords": [
+    "isomorphic",
+    "web",
+    "framework"
+  ],
+  "author": "Wendy Yuchen Sun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wendyyuchensun/iso/issues"
+  },
+  "homepage": "https://github.com/wendyyuchensun/iso#readme"
+}
